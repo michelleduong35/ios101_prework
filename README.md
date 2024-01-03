@@ -14,6 +14,9 @@ The following **required** functionality is completed:
 - [Y] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
+- Favorite Apps: Instagram, Lapse, Bereal, Tiktok, Webtoon
+- Functions: Delayed gratification (Lapse), Suggested Algorithm (Tiktok), Bereal (Timer for authencity, extra shots if on time)
+- App I want to build: A task tracker and motivator. Minimal todo's and goals that you can share with friends, and widgets to easily mark of completion. 
 
 ## Notes
 
